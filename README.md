@@ -23,6 +23,8 @@ https://github.com/nongnitheddy/SERVERLESS-STATIC-WEBSITE-DEPLOYMENT-ON-AWS-USIN
 * Installed and configured Apache on Linux
 * Managed permissions and web deployment
 * Troubleshot real server issues
+
+https://github.com/nongnitheddy/Linux-Server-Setup-Apache-Deployment
 ---
 ## What I'm Working On
 * Terraform infrastructure automation
