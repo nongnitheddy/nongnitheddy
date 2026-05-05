@@ -1,16 +1,41 @@
-## Hi there 👋
+# I'm Theddy Nongni
+## AWS Cloud & DevOps Engineer | Linux | Terraform
 
-<!--
-**nongnitheddy/nongnitheddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer with hands-on experience deploying and troubleshooting AWS cloud infrastructure and Linux-based systems.
+---
+## Tech Stack
 
-Here are some ideas to get you started:
+* AWS (EC2, S3, IAM, VPC, CloudFront, Route 53)
+* Linux (Amazon Linux)
+* Terraform (Infrastructure as Code)
+* Bash Scripting
+* Git & GitHub
+* Apache Web Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### 🌐 AWS Static Website (S3 + CloudFront + Route 53)
+
+* Deployed a highly available static website using AWS
+* Configured CDN for low latency
+* Implemented secure and scalable architecture
+---
+### Linux Apache Server Setup
+
+* Installed and configured Apache on Linux
+* Managed permissions and web deployment
+* Troubleshot real server issues
+---
+
+## What I'm Working On
+
+* Terraform infrastructure automation
+* CI/CD pipelines (GitHub Actions)
+---
+## Contact Me
+
+📧 [nongnitheddy@gmail.com](mailto:nongnitheddy@gmail.com)
+
+Mobile: 703-868-1741
